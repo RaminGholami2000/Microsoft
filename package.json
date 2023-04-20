@@ -1,0 +1,25 @@
+{
+  "name": "microsoft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "hover": "node-sass -w  scss/main.scss -o css/ -r",
+    "setting": "node-sass -w  scss/main.scss -o css/ -r",
+    "size": "node-sass -w  scss/main.scss -o css/ -r",
+    "fonts": "node-sass -w  scss/main.scss -o css/ -r",
+    "colors": "node-sass -w  scss/main.scss -o css/ -r",
+    "possition": "node-sass -w  scss/main.scss -o css/ -r",
+    "effects": "node-sass -w  scss/main.scss -o css/ -r",
+    "less": "node-sass -w  scss/main.scss -o css/ -r"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.0-alpha2",
+    "live-server": "^1.2.2",
+    "mdb-ui-kit": "^6.2.0",
+    "node-sass": "^8.0.0"
+  }
+}

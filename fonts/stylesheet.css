@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'Blizzard';
+    src: url('Blizzard-Regular.eot');
+    src: url('Blizzard-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Blizzard-Regular.woff2') format('woff2'),
+        url('Blizzard-Regular.woff') format('woff'),
+        url('Blizzard-Regular.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Blizzard';
+    src: url('Blizzard-Bold.eot');
+    src: url('Blizzard-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Blizzard-Bold.woff2') format('woff2'),
+        url('Blizzard-Bold.woff') format('woff'),
+        url('Blizzard-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Object Sans';
+    src: url('ObjectSans-Bold.eot');
+    src: url('ObjectSans-Bold.eot?#iefix') format('embedded-opentype'),
+        url('ObjectSans-Bold.woff2') format('woff2'),
+        url('ObjectSans-Bold.woff') format('woff'),
+        url('ObjectSans-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Sans';
+    src: url('NotoSans.eot');
+    src: url('NotoSans.eot?#iefix') format('embedded-opentype'),
+        url('NotoSans.woff2') format('woff2'),
+        url('NotoSans.woff') format('woff'),
+        url('NotoSans.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Sans';
+    src: url('NotoSans-Bold.eot');
+    src: url('NotoSans-Bold.eot?#iefix') format('embedded-opentype'),
+        url('NotoSans-Bold.woff2') format('woff2'),
+        url('NotoSans-Bold.woff') format('woff'),
+        url('NotoSans-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
