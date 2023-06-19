@@ -40,6 +40,7 @@
     .display-h-1085{
     transform: scale(0);
 }
+
 }
 @media  screen and (min-width:1085px){
     .display-a-1085m{
@@ -63,5 +64,19 @@
     }
     .color{
         color:black;
+    }
+}
+@media  screen and (max-width:550px){
+    .d-h550{
+        display: none !important;
+    }
+    .gap-550{
+        gap: 15px;
+    }
+    .flex-550{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 20px;
     }
 }
